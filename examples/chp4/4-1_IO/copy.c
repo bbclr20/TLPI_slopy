@@ -6,7 +6,7 @@
 
 int main(int argc, char* argv[]) {
     if (argc != 3) {
-        printf("Usuage: %s src_file dst_file\n", argv[0]);
+        printf("Usage: %s src_file dst_file\n", argv[0]);
     }
 
     // open read file
